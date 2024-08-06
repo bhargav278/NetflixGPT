@@ -5,7 +5,7 @@ import LoginForm from "./LoginForm"
 function Login() {
     return (
         <>
-            <div className="bg-hero-img w-full min-h-screen">
+            <div className="bg-hero-img w-full min-h-svh">
                 <Header />
                 <LoginForm />
             </div>
