@@ -2,7 +2,7 @@ import LanguageButton from "./LanguageButton"
 
 function Footer() {
     return (
-        <div className="w-full bg-black text-white py-40">
+        <div className="w-full bg-black text-white py-20">
             <div className="w-8/12 mx-auto">
                 <div className="mb-12">Questions? Call 000-800-919-1694</div>
                 <div className="my-7" >
